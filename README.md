@@ -1,6 +1,6 @@
 
-# Speech to Text with Grammar Correction
-🗣️📝 In these exciting projects, we harness the power of OpenVINO™ and Intel OneAPI to take AI to the next level. The first project dives into automatic speech recognition with OpenVINO™, utilizing the QuartzNet 15x5 model. The second project tackles grammatical error correction, transforming pre-trained Hugging Face Transformers models into OpenVINO™ IR format. Both projects exemplify the seamless integration of OpenVINO™ within the Intel OneAPI ecosystem, significantly boosting the efficiency and performance of AI-driven tasks such as speech recognition and text correction. 🚀💡
+# Speech to Text with Grammar Correction with OpenVINO™
+🗣️📝 In this exciting project, we harness the power of OpenVINO™ and Intel OneAPI to take AI to the next level. The first part dives into automatic speech recognition with OpenVINO™, utilizing the QuartzNet 15x5 model. The second part tackles grammatical error correction, transforming pre-trained Hugging Face Transformers models into OpenVINO™ IR format. Both parts exemplify the seamless integration of OpenVINO™ within the Intel OneAPI ecosystem, significantly boosting the efficiency and performance of AI-driven tasks such as speech recognition and text correction. 🚀💡
 
 
 
