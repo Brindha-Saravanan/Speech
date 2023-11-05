@@ -75,11 +75,11 @@ Open the Jupyter Notebook File
 
 Import the Audio File and Run all the cells
 
-speech to text
+**Speech to text**
 <img src="https://drive.google.com/uc?id=1KvWChs9y41u-i9yOT3s0KwaBRR-T2wI2" alt="Speech to text">
 
 
 
-Grammer Correction
+**Grammer Correction**
 <img src="https://drive.google.com/uc?export=view&id=1irtEPx3I8Ys8jqO9rkEAsPmX89PvpHJN" alt="grammer correction">
 
